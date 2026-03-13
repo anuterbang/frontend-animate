@@ -7,6 +7,8 @@
 
 Landing page modern, responsif, dan interaktif untuk brand kecantikan **Animate Skincare**. Proyek ini dibangun menggunakan **Next.js 14** dengan fokus pada estetika *clean*, feminin, dan pengalaman pengguna yang halus melalui animasi transisi.
 
+Live Demo : https://frontend-animate.vercel.app
+
 ---
 
 ## 🚀 Fitur Utama
